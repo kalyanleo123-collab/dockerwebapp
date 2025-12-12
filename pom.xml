@@ -6,7 +6,7 @@
     <packaging>war</packaging>
     <version>v2</version>
     <name>Devops Webapp</name>
-    <url>http://100.30.224.182:8081/repository/myrepo/</url>
+    <url>http://maven.apache.org</url>
     <properties>
         <spring.version>4.2.0.RELEASE</spring.version>
         <spring-security.version>4.0.2.RELEASE</spring-security.version>
